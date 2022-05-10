@@ -1,6 +1,6 @@
 <h2>Olá, eu sou o Thales e sejam bem vindos(a) ao meu repositório.</h2><br />
 
-<br />🛠Tecnologias que eu trabalho🛠<br />
+<br />🛠Tecnologias que eu trabalho🛠
 
 Front-End: <br />
     <br />![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
