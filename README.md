@@ -1,5 +1,15 @@
 <h2>Olá, eu sou o Thales e sejam bem vindos(a) ao meu repositório.</h2><br />
 
+<div>
+    <h4>Um resumo sobre o meu perfil:</h4>
+  <a href="https://github.com/Thales-github">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Thales-github&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thales-github&layout=compact&langs_count=7&theme=tokyonight"/>
+  <br>
+  <img height="25em" src="https://komarev.com/ghpvc/?username=Thales-github&color=blue"/>
+</div>
+
+
 🛠Tecnologias que eu trabalho🛠
 
 Front-End: <br />
