@@ -1,4 +1,4 @@
-<img align="right" width="250px" style="margin-top:10px; border-radius: 105%;" src="foto.jfif">
+<img align="right" width="250px" style="margin-top:10px; border-radius: 105%;" src="https://dkrn4sk0rn31v.cloudfront.net/uploads/2018/05/11154235/diferencas-cursos-superiores-TI.jpg">
 
 </br>
 </br>
