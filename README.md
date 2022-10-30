@@ -37,7 +37,7 @@ Acredito que através do trabalho duro e dedicação nós podemos alcançar opor
 </br>
 </br>
 <div display="inline-block">
- <p align="left">🤿 Faço parte do time de desenvolvimento da CBI</a>;</p>
+ 
  <p align="left">📚 Tenho estudado PHP e JAVASCRIPT e atuo como desenvolvedor full-stack;</p>
  
 </div>
