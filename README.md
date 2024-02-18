@@ -17,28 +17,29 @@
 
 ## Salve, Galera!!!
 
-Tenho 20 anos, moro em São Paulo/SP, curto muito esportes, filmes e música! Sou um dev júnior full-stack com maior ênfase em back-end.<br />
+Tenho 21 anos, moro em São Paulo/SP e possuo MBA em Segurança da Informação e Gestão de Projetos.<br />
+Sou um dev júnior full-stack com expertise tanto em front-end como back-end.<br />
+Sou músico profissional e gosto muito de esportes, filmes e música!<br />
 Acredito que através do trabalho duro e dedicação nós podemos alcançar oportunidades incríveis🔥🔥🔥
-
+<br />
 
 ### 🖥️ Tecnologias e Ferramentas: 
 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title = "TYPESCRIPT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" title="JQUERY"></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" title="PHP" /></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" title="LARAVEL" /></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
-
 
 </br>
 </br>
 <div display="inline-block">
  
- <p align="left">📚 Tenho estudado PHP e JAVASCRIPT e atuo como desenvolvedor full-stack;</p>
+ <p align="left">📚 Tenho estudado LARAVEL e INGLÊS e atuo como desenvolvedor full-stack;</p>
  
 </div>
 
