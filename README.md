@@ -17,7 +17,7 @@
 
 ## Salve, Galera!!!
 
-Tenho 21 anos, moro em São Paulo/SP e possuo MBA em Segurança da Informação e Gestão de Projetos.<br />
+Tenho 22 anos, moro em São Paulo/SP e possuo MBA em Segurança da Informação e Gestão de Projetos.<br />
 Sou um dev júnior full-stack com expertise tanto em front-end como back-end.<br />
 Sou músico profissional e gosto muito de esportes, filmes e música!<br />
 Acredito que através do trabalho duro e dedicação nós podemos alcançar oportunidades incríveis🔥🔥🔥
